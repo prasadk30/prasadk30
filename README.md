@@ -1,90 +1,131 @@
-<h1 align="center">Hi Everyone👋, I'm Prasad Kumbhar</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/prasadk30/prasadk30/main/prasad-banner.png"> </div>
-<h3 align="center">A passionate software developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadk30&label=Profile%20views&color=0e75b6&style=flat" alt="prasadk30" /> </p>
+<h1 align="center">Hi 👋, I'm Prasad Kumbhar</h1>
 
-- 🌱 I’m currently learning **Spring AI, Microservices, React JS**
+<h3 align="center">
+Passionate Java Backend Developer from India 🇮🇳
+</h3>
 
-- 📫 How to reach me **prasadkumbhar9565@gmail.com**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prasadk30/prasadk30/main/prasad-banner.png" alt="banner" width="100%" />
+</div>
 
-- 📄 Know about my experiences  
-  https://drive.google.com/file/d/1cLcFkGs9QARGnIoBLtDJU1HGt2DiLeAt/view?usp=sharing
+<br/>
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
 
-<p align="left">
-<a href="https://linkedin.com/in/prasad-kumbhar-37870b178" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-kumbhar-37870b178" height="30" width="40" />
-</a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=prasadk30&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/prasadk30)
+[![GitHub followers](https://img.shields.io/github/followers/prasadk30?logo=github&style=for-the-badge)](https://github.com/prasadk30)
+[![GitHub Stars](https://img.shields.io/github/stars/prasadk30?logo=github&style=for-the-badge)](https://github.com/prasadk30)
 
-<h3 align="left">Languages and Tools:</h3>
+</div>
 
-<p align="left">
+---
 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-</a>
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a>
+## 🚀 About Me
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
+- 🌱 Currently learning **Spring AI, Microservices, React JS**
+- 💻 Passionate about **Full Stack Development & AI Integration**
+- ⚡ Love building scalable applications and modern UI experiences
+- 📫 Reach me at: **prasadkumbhar9565@gmail.com**
+- 📄 Resume: [View Resume]([https://drive.google.com/file/d/1cLcFkGs9QARGnIoBLtDJU1HGt2DiLeAt/view?usp=sharing](https://drive.google.com/file/d/1cLcFkGs9QARGnIoBLtDJU1HGt2DiLeAt/view?usp=sharing))
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
+---
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/prasad-kumbhar-37870b178" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<a href="mailto:prasadkumbhar9565@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<a href="https://github.com/prasadk30">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
+</div>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
+---
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
+# 💻 Tech Stack
 
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
+<div align="center">
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
+### 🚀 Languages
 
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-</a>
+<img src="https://skillicons.dev/icons?i=java,js,c,cpp,html,css" />
 
-</p>
+### ⚛️ Frontend Development
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadk30&show_icons=true&locale=en&layout=compact" alt="prasadk30" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasadk30&show_icons=true&locale=en" alt="prasadk30" />
-</p>
+### 🔧 Backend Development
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadk30&" alt="prasadk30" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+
+### 🗄️ Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,postman" />
+
+### 🤖 Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=ai" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prasadk30&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadk30&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadk30&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prasadk30&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadk30&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# ✨ Quote of the Day
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+</div>
