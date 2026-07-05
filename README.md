@@ -28,7 +28,7 @@ Passionate Java Backend Developer from India 🇮🇳
 - 💻 Passionate about **Full Stack Development & AI Integration**
 - ⚡ Love building scalable applications and modern UI experiences
 - 📫 Reach me at: **prasadkumbhar9565@gmail.com**
-- 📄 Resume: [View Resume]([https://drive.google.com/file/d/1cLcFkGs9QARGnIoBLtDJU1HGt2DiLeAt/view?usp=sharing](https://drive.google.com/file/d/1cLcFkGs9QARGnIoBLtDJU1HGt2DiLeAt/view?usp=sharing))
+- 📄 Resume: [View Resume]([https://drive.google.com/file/d/1Dg0d_WU8agLDd76KtJw2riRALfmNsTOP/view?usp=drive_link])
 
 ---
 
